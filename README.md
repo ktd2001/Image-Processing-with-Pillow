@@ -1,12 +1,22 @@
 # Image-Processing-with-Pillow
 Pillow Image Processing 
 Images can be framed, cropped and used to create a histogram.
-<imgsrc="images/https://github.com/ktd2001/Image-Processing-with-Pillow/blob/master/Images/Processed_Images.png"width="100">
-![github-small](https://github.com/ktd2001/Image-Processing-with-Pillow/blob/master/Images/Processed_Images.png)
-*This text will be italic*
+
+
+❮img src="images/Processed_Images.png" width="100"❯
+
+❮img src="images/you-picture.png" width="100" ❯
+
+**Cropped Image** 
+❮img src="images/cropped.jpg" width="100" ❯
+
+**Coutour Image** 
+
+
+The *This text will be italic*
 _This will also be italic_
 
-**This text will be bold**
+**The **
 __This will also be bold__
 
 _You **can** combine them_
