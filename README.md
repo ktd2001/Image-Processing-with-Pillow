@@ -3,3 +3,10 @@ Pillow Image Processing
 Images can be framed, cropped and used to create histograms
 ![GitHub Logo](/images/Processed_Images.png)
 Format: ![Alt Text](url)
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
