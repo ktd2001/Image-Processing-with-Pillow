@@ -10,8 +10,8 @@ Images can be framed, cropped and used to create a histogram.
 **Cropped Image** 
 ❮img src="images/cropped.jpg" width="100" ❯
 
-**Coutour Image** 
-
+**Grayscale Histogram** 
+❮img src="images/cropped.jpg" width="100" ❯
 
 The *This text will be italic*
 _This will also be italic_
