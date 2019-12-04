@@ -8,10 +8,10 @@ Images can be framed, cropped and used to create a histogram.
 ❮img src="images/you-picture.png" width="100" ❯
 
 **Cropped Image** 
-❮img src="images/cropped.jpg" width="100" ❯
+❮img src="images/cropped.png" width="100" ❯
 
 **Grayscale Histogram** 
-❮img src="images/cropped.jpg" width="100" ❯
+❮img src="Images/outputhisto.jpg" width="100" ❯
 
 The *This text will be italic*
 _This will also be italic_
