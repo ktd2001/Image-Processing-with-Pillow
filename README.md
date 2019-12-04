@@ -1,8 +1,7 @@
 # Image-Processing-with-Pillow
 Pillow Image Processing 
 Images can be framed, cropped and used to create histograms
-![GitHub Logo](/images/Processed_Images.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 *This text will be italic*
 _This will also be italic_
 
