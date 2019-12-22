@@ -15,6 +15,6 @@ Images can be framed, cropped and used to create a histogram.
 
 <img src="Images/outputhisto.jpg" width="400">
 
-**Grayscale Image**:
+**Histogram from Contoured Image**:
 
 <img src="Images/grayscale_histogram.png" width="400">
